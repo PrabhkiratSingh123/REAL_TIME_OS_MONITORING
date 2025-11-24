@@ -1,8 +1,3 @@
-Here is a **clean, professional, production-ready README.md** written specifically for your project code (Real-Time OS Monitoring System).
-
-You can **copy-paste this directly into your GitHub README file**.
-
----
 
 # 🧠 **Real-Time OS Monitoring System**
 
